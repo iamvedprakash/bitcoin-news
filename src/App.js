@@ -9,7 +9,7 @@ const App = () => {
   const[data, setData] = useState([]);
   useEffect(() => {
     const fetchItems = async () => {
-        const result = await axios('https://newsapi.org/v2/everything?q=bitcoin&apiKey=7304724bfe214486afe70cdb4f69f439');
+        const result = await axios('');
 
         console.log(result.data.articles);
         setData(result.data.articles);
