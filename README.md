@@ -9,3 +9,5 @@ npm install
 
 ### Run App
 npm start
+
+![Screenshot](https://github.com/iamvedprakash/bitcoin-news/blob/main/Project%20Demo/Project-Demo.JPG?raw=true)
