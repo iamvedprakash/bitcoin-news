@@ -1,12 +1,11 @@
-#bitcoin-news
+# bitcoin-news
 React project that shows latest article related to the bitcoin from different sources.
 
-#Usage
+# Usage
 
 
-###Install dependencies
+### Install dependencies
 npm install
 
-
-###Run App
+### Run App
 npm start
